@@ -25,7 +25,7 @@ Login Screen
 ![Alt text](https://github.com/avi1410/grayquest/blob/master/Screenshot_20210616-195823.jpg "Login Screen")
 
 
-OTP Screen 
+OTP Screen - Global OTP is "1234"
 ![Alt text](https://github.com/avi1410/grayquest/blob/master/Screenshot_20210616-195831.jpg "OTP Screen")
 
 
